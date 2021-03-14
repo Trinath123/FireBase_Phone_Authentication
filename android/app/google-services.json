@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786651880816",
+    "project_id": "mimetic-sunset-298012",
+    "storage_bucket": "mimetic-sunset-298012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786651880816:android:bf2d6137774f18c1f383b5",
+        "android_client_info": {
+          "package_name": "com.firebase_react_native_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786651880816-o9srm7k9mo584feiib8scd5mkda0jl8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvt_0wFWFZzc7yXoXvPGUPDqZ8OEI0-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786651880816-o9srm7k9mo584feiib8scd5mkda0jl8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
